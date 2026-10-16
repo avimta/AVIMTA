@@ -3,7 +3,7 @@
 <h1 align="center">Hey, I'm Avimta 👋</h1>
  
 <p align="center">
-  <b>Java & Spring Boot Developer · ML Explorer · Builder</b><br/>
+  <b>Java & Spring Boot Developer · AI Explorer · Builder</b><br/>
   I love building robust backends and experimenting with AI on the side. ☕🚀
 </p>
  
